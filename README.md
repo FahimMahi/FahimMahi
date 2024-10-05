@@ -1,29 +1,106 @@
 <h1 align="center">Hi 👋, I'm Fahim Mahmud Bhuiyan (Mahi)</h1>
-<h3 align="center">Stop waiting for bug fixes. Start working alone!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">"Code, debug, and repeat. Embracing challenges, fixing bugs and growing stronger with each line of code!"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimmahi&label=Profile%20views&color=0e75b6&style=flat" alt="fahimmahi" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/fahim_mahi" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_mahi?logo=twitter&style=for-the-badge" alt="fahim_mahi" /></a> </p>
 
-- 🔭 I’m currently studying at **American International University-Bangladesh (AIUB)**
-
-- 📫 How to reach me **fahim.mahi@yahoo.com**
-
-- ⚡ Fun fact **Nothing :3**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fahim_mahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahim_mahi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahim-mahmud-b-703976141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim-mahmud-b-703976141" height="30" width="40" /></a>
-<a href="https://instagram.com/fahimmahmudmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimmahmudmahi" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=fahimmahi&label=Profile%20views&color=0e75b6&style=flat" alt="fahimmahi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://x.com/fahim_mahi" target="blank">
+    <img src="https://img.shields.io/twitter/follow/fahim_mahi?style=social" alt="fahim_mahi" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimmahi&show_icons=true&locale=en&layout=compact" alt="fahimmahi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimmahi&show_icons=true&locale=en" alt="fahimmahi" /></p>
+### 👨‍💻 About Me
+- 🎓 **Graduate** from **American International University-Bangladesh (AIUB)** with a Bachelor of Science in **Computer Science and Engineering**.
+- 💻 Passionate about **coding** and constantly honing my development skills.
+- 🚀 Currently exploring new technologies and frameworks to improve my development skills.
+- 📚 Always on the lookout for **learning opportunities**, whether it’s mastering new programming languages, diving into AI, or experimenting with web technologies.
+- 📫 You can reach me at: **fahim.mahi@yahoo.com**
+- ⚡ **Fun fact:** ***I believe that every bug is an opportunity to learn and grow, one line of code at a time!***
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmahi&" alt="fahimmahi" /></p>
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/fahim-mahmud-b-703976141" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="fahim-mahmud-b-703976141" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/fahimmahmudmahi" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="fahimmahmudmahi" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">💻 Programming Languages:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/python/python_intro.asp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" /></a>
+  <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
+  <a href="https://www.tutorialspoint.com/matlab/index.htm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" /></a>
+  <a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+</p>
+
+<h3 align="left">📦 Frameworks:</h3>
+<h3 align="left">🎨 Frontend:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
+  <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+</p>
+
+<h3 align="left">🔙 Backend:</h3>
+<p align="left">
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+</p>
+
+<h3 align="left">📂 Version Control:</h3>
+<p align="left">
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<h3 align="left">🗄️ Databases:</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
+</p>
+
+<h3 align="left">🛠️ Tools & Other Skills:</h3>
+<p align="left">
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" /></a>
+  <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
+  <a href="https://www.umletino.com/umletino.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/UMLetino-%23000000.svg?style=for-the-badge&logo=uml&logoColor=white" alt="UMLetino" /></a>
+  <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MS%20Office-%23339933.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office" /></a>
+  <a href="https://www.umlet.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/UMLet-%23000000.svg?style=for-the-badge&logo=uml&logoColor=white" alt="UMLet" /></a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trello-%230A74DA.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" /></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JIRA-%230A0A0A.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fahimmahi&show_icons=true&locale=en&theme=radical" alt="fahimmahi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmahi&theme=radical" alt="fahimmahi" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimmahi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fahimmahi" /></p>
