@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahim Mahmud Bhuiyan (Mahi)</h1>
 <h3 align="center">"Code, debug, and repeat. Embracing challenges, fixing bugs and growing stronger with each line of code!"</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fahimmahi&label=Profile%20views&color=0e75b6&style=flat" alt="fahimmahi" />
 </p>
@@ -16,13 +13,23 @@
 
 ---
 
+<div>
+    <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
 ### 👨‍💻 About Me
-- 🎓 **Graduate** from **American International University-Bangladesh (AIUB)** with a Bachelor of Science in **Computer Science and Engineering**.
-- 💻 Passionate about **coding** and constantly honing my development skills.
-- 🚀 Currently exploring new technologies and frameworks to improve my development skills.
-- 📚 Always on the lookout for **learning opportunities**, whether it’s mastering new programming languages, diving into AI, or experimenting with web technologies.
-- 📫 You can reach me at: **fahim.mahi@yahoo.com**
-- ⚡ **Fun fact:** ***I believe that every bug is an opportunity to learn and grow, one line of code at a time!***
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <ul>
+      <li>🎓 <strong>Graduate</strong> from <strong>American International University-Bangladesh (AIUB)</strong> with a Bachelor of Science in <strong>Computer Science and Engineering</strong>.</li>
+      <li>💻 Passionate about <strong>coding</strong> and constantly honing my development skills.</li>
+      <li>🚀 Currently exploring new technologies and frameworks to improve my development skills.</li>
+      <li>📚 Always on the lookout for <strong>learning opportunities</strong>, whether it’s mastering new programming languages, diving into AI, or experimenting with web technologies.</li>
+      <li>📫 You can reach me at: <strong>fahim.mahi@yahoo.com</strong></li>
+      <li>⚡ <strong>Fun fact:</strong> I believe that every bug is an opportunity to learn and grow, one line of code at a time!</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -99,8 +106,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fahimmahi&show_icons=true&locale=en&theme=radical" alt="fahimmahi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimmahi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fahimmahi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmahi&theme=radical" alt="fahimmahi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimmahi&show_icons=true&locale=en&theme=radical" alt="fahimmahi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimmahi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fahimmahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmahi&theme=radical" alt="fahimmahi" /></p>
