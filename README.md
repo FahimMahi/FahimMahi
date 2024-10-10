@@ -25,8 +25,8 @@
       <li>💻 Passionate about <strong>coding</strong> and constantly honing my development skills.</li>
       <li>🚀 Currently exploring new technologies and frameworks to improve my development skills.</li>
       <li>📚 Always on the lookout for <strong>learning opportunities</strong>, whether it’s mastering new programming languages, diving into AI, or experimenting with web technologies.</li>
-      <li>📫 You can reach me at: <strong>fahim.mahi@yahoo.com</strong></li>
-      <li>⚡ <strong>Fun fact:</strong> I believe that every bug is an opportunity to learn and grow, one line of code at a time!</li>
+      <li>📫 You can reach me at: <a href="mailto:fahim.mahi@yahoo.com"><strong>fahim.mahi@yahoo.com</strong></a></li>
+      <li>⚡ <strong>Fun fact:</strong> <i> <b> I believe that every bug is an opportunity to learn and grow, one line of code at a time!</b> </i></li>
     </ul>
   </div>
 </div>
