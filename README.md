@@ -87,6 +87,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23007A7A.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" /></a>
 </p>
 
 <h3 align="left">🛠️ Tools & Other Skills:</h3>
